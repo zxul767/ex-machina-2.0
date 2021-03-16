@@ -1,0 +1,8 @@
+name: Willy Gomez
+bio: |
+  Written by Willy Gomez, programmer and machine learning enthusiast.
+avatar: ./avatars/willy-gomez.jpg
+social:
+  - url: https://twitter.com/zxul767
+  - url: https://github.com/zxul767
+featured: true
