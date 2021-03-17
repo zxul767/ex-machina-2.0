@@ -2,7 +2,7 @@
 title: Clean Code Book
 author: Willy Gomez
 date: 2020-10-23
-hero: ./images/book.jpg
+hero: ./images/clean-code-book.jpg
 excerpt: Do I still recommend the Clean Code book?
 ---
 
