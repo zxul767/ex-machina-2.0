@@ -3,7 +3,7 @@ title: Clean Code
 author: Willy Gomez
 date: 2020-08-18
 hero: ./images/clean-code.jpg
-excerpt: Clean Code is code that is easy to understand, maintain and extend. In this post we examine why this matters.
+excerpt: Clean Code is code that is easy to understand, maintain and extend, but why does this matter?
 ---
 
 Sooner or later, every programmer encounters the term "clean code" in their career. And although most initially imagine it's just "code aesthetics" that can be achieved with a formatter, in reality there is much more to it than that. 
