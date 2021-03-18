@@ -33,7 +33,7 @@ def isIPV4(txt):
         try:
             v = int(ints[i])
             if v < 0 or v > 255:
-                return True
+                return False
         except Exception:
             return False
         cnt += 1
